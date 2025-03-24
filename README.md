@@ -1,4 +1,3 @@
-[# natas]
 Natas machine website: (https://overthewire.org/wargames/natas/)
 
 **Walkthrough of overthewire Natas server side web security**
